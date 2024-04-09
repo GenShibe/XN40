@@ -1,4 +1,5 @@
 <div align = center>
+<img src="https://github.com/GenShibe/XN40/blob/aba92af31d1f819b48df4d4427eb6fbb605f8432/dotfiles.png" height="150px" /> 
   <h1> Gen's NixOS config </h1>
   <img alt="stars" src="https://img.shields.io/github/stars/GenShibe/XN40?color=f4b8e4&labelColor=303446&style=for-the-badge">
   <a href="https://github.com/GenShibe/XN40/blob/main/LICENSE">
