@@ -30,7 +30,7 @@
               };
             }
             { nixpkgs.config.allowUnfree = true; }
-            ./configuration.nix
+            ./hosts/configuration.nix
             inputs.home-manager.nixosModules.home-manager
             {
               home-manager = {
