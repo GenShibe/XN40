@@ -14,10 +14,12 @@
 <br>
 <br>
 </div>
-This repo contains my (terrible) dotfiles for NixOS and maybe my mac as well in the future, who knows. 
+This repo contains my (terrible) dotfiles for NixOS and maybe my mac as well in the future, who knows :p 
 
 <h1> How to Install </h1>
-you don't (yet).
+you don't (yet). 
+
+the option to install may come later in the future, but it really depends on how shit i feel my dots are
 
 <h2> Credits </h2>
-i'd like to thank those who had to suffer from helping me out with NixOS, you know who you are, thank you all for putting up with me being a noob 💙
+i'd like to thank those who had to suffer from helping me out with NixOS, you know who you are, thank you all for putting up with me being a nixOS noob 💙
