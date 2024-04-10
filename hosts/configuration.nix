@@ -91,7 +91,7 @@
       pkgs.steam
       pkgs.kitty
       pkgs.hyfetch
-      (pkgs.discord.override { withVencord = true; })
+      pkgs.discord
       pkgs.flameshot
       pkgs.neofetch
       pkgs.git
