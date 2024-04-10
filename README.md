@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600px" />  
 <br>
   <br>
-  This repo contains my (terrible) dotfiles for NixOS and maybe my mac as well in the future, who knows :p 
+  This repo contains my (terrible) dotfiles for NixOS (for now, mac to come 20xx?)
 </div>
 <br>
 <div align = center >
@@ -21,17 +21,13 @@
 <p>The reason it's called XN40 is because all my devices are named under a specific theme, that theme being North American bus models. Do not question why, as it should be bloody obvious :3</p>
 
 <h1> How to Install </h1>
-you don't (yet). 
-
-the option to install may come later in the future, but it really depends on how shit i feel my dots are
+you don't (yet...)  the option to install may come later (but likely won't), but it really depends on how shit i feel my dots are (they're very shit, do not use)
 
 <h2> Credits </h2>
 i'd like to thank those who had to suffer from helping me out with NixOS, and for putting up with me being a nixOS noob 💙
-
 <br>
 <br>
-
-in all seriousness and no particular order though, these very very cool and basedpeople helped me figure out the complex system that is NixOS:
+in all seriousness and no particular order though, these very very cool and based people helped me figure out the complex system that is NixOS:
 - [IsabelRoses](https://github.com/IsabelRoses)
 - [0fie](https://github.com/0fie)
-- [00mfie](https://github.com/oomfiee)
+- [00mfie](https://codeberg.org/oomfie)
