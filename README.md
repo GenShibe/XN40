@@ -28,6 +28,7 @@ i'd like to thank those who had to suffer from helping me out with NixOS, and fo
 <br>
 <br>
 in all seriousness and no particular order though, these very very cool and based people helped me figure out the complex system that is NixOS:
+
 - [IsabelRoses](https://github.com/IsabelRoses)
 - [0fie](https://github.com/0fie)
 - [00mfie](https://codeberg.org/oomfie)
