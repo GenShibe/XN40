@@ -31,6 +31,12 @@
   # Enable networking
   networking.networkmanager.enable = true;
 
+  # autoUpdate settings
+  system.autoUpgrade = {
+    enable = true;
+    allowReboot = true;
+  };
+
   # Set your time zone.
   time.timeZone = "America/Vancouver";
 
